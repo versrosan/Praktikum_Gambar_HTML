@@ -1,0 +1,24 @@
+body {
+     font-family: "Archivo", sans-serif;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    h1 {
+        margin-bottom: 3px;
+    }
+    p {
+        margin-top: 5px;
+    }
+}
+header {
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.sawah img {
+    width: 300px;
+    height: auto;
+}
+.eksternal img {
+    width: 300px;
+    border: 5px solid blue;
+    border-radius: 15px;
+}
